@@ -1,8 +1,10 @@
 # Project: Generative Adversarial Network (GAN) for Lattice-based Cryptography
 
+Python version: 3.10.9
+
 ## Implementation
-1. pip install -r requirements.txt
-2. Run lwe_gan_main.ipynb via Jupyter (Command <run in the same directory as the ipynb file>: jupyter notebook)
+1. `pip install -r requirements.txt`
+2. Run lwe_gan_main.ipynb via Jupyter (Command `<run in the same directory as the ipynb file>`: `jupyter notebook`)
 
 ## Objective
 The goal of this project was to implement a Generative Adversarial Network (GAN) capable of generating samples representative of the Learning With Errors (LWE) distribution, a critical component in lattice-based cryptography.
